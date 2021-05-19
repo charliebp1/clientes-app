@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.wrap {
+    padding-bottom: 60px;
+}
+
+.margin-left{ 
+    margin-left: 750px !important; 
+} 
+
+.button-space {
+    margin-right: 8px;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
